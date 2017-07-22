@@ -47,7 +47,7 @@ __Key Specifications:__
 
 * Measures tilt in two axes: forward and back, or side to side
 * Registers sudden changes in motion
-*Detects even small amounts of vibration and motion
+* Detects even small amounts of vibration and motion
 
 The Memsic 2125 Dual-axis Accelerometer is sensitive to the gravitational pull of the earth, allowing it to measure
 tilt, vibration, motion, and acceleration. The sensor provides independent outputs for two axes, labeled X and Y:
@@ -69,7 +69,7 @@ The X and Y axis output of the Memsic 2125 is a pulse that has a period of (that
 (100 Hz). The width of the pulse represents the instantaneous g-force. By measuring the width of the pulse, you can
 derive – with high accuracy – the g-force of either axis.
 
-![](/images/blog/memsic2125/Memsic2125-3.png!)
+![](/images/blog/memsic2125/Memsic2125-3.png)
 
 __Hardware Required__
 
@@ -80,7 +80,7 @@ __Hardware Required__
 
 __Circuit__
 
-![](/images/blog/memsic2125/Mx2125_PINOUT.png!)
+![](/images/blog/memsic2125/Mx2125_PINOUT.png)
 
 Use the small triangle on the Memsic to properly orient the sensor on your breadboard. Connect the 5V and GND pins
 of the Memsic 2125 to the power and ground ports on the Arduino. Connect digital pin 2 of the Arduino to the X out
@@ -88,14 +88,14 @@ pin of the accelerometer, and digital pin 3 to the Y out pin.
 
 The picture below shows you essentially how the circuit should be laid out.
 
-![](/images/blog/memsic2125/Memsic2125-7.png!)
+![](/images/blog/memsic2125/Memsic2125-7.png)
 
 Don't forget that your Arduino must be connected to your computer in order for it to transmit serial data and
 don't forget to set the Baud Rate of your serial connection to be 9600.
 
 __The Code__
 
-{% highlight bash %}
+```
    Memsic2125
 
    Read the Memsic 2125 two-axis accelerometer and prints them over the serial connection to the
@@ -151,16 +151,16 @@ void loop() {
 
   delay(100);
 }
-{% endhighlight %}
+```
 
 At the end of uploading and running the code listed above you will start to see some serial output like in the
 image below.
 
-![](/images/blog/memsic2125/memsic2125_results.png!)
+![](/images/blog/memsic2125/memsic2125_results.png)
 
 Here's a picture of the actual circuit built.
 
-![](/images/blog/memsic2125/layout.png!)
+![](/images/blog/memsic2125/layout.png)
 
 In a follow up blog post I'll discuss how by using additional math, you can use the values provided by the
 accelerometer to convert to actual g-forces or degrees of tilt.

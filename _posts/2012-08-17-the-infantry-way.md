@@ -8,4 +8,4 @@ categories: [Images, General, Military]
 
 True Story.
 
-![](images/blog/random/infantry_way.jpeg)
+![](/images/blog/random/infantry_way.jpeg)

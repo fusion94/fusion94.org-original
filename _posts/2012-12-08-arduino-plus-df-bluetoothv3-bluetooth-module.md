@@ -105,7 +105,7 @@ When the pairing is completed successfully the window below will be shown.
 
 __The Code__
 
-(% highlight bash %)
+```
 /*
 
  DF-BluetoothV3 Bluetooth module
@@ -135,7 +135,7 @@ void loop() {
   // 1 second delay
   delay(1000);                  
 }
-(% endhighlight %)
+```
 
 At the end of uploading and running the code listed above you will start to see some serial output
 like in the image below.

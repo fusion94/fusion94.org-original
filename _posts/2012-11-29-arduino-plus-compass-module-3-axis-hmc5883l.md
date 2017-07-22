@@ -91,7 +91,7 @@ data and don’t forget to set the Baud Rate of your serial connection to be 960
 
 __The Code__
 
-(% highlight bash %)
+```
 /*
    Compass Module 3-Axis HMC5883L
 
@@ -148,7 +148,7 @@ void loop() {
 
   delay(500);
 }
-(% endhighlight %)
+```
 
 At the end of uploading and running the code listed above you will start to see some serial output
 like in the image below.
