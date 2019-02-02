@@ -33,6 +33,11 @@ navbar-links:
 #avatar: "/img/avatar-icon.png"
 avatar: "/img/bio-photo.jpg"
 
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#F5F5F5"
+
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
