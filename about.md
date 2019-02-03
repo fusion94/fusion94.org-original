@@ -8,6 +8,8 @@ subtitle: Random bits and bytes
 
 My name is Tony Guntharp and I make things. Software or Hardware, it doesn’t matter. I’m OCD, a Geek, a Homebrewer. Fan of Open Source, Linux, OSX and Mobile. Purveyor of Craft Beer and Single Malt Scotches. <del>Avid Motorcyclist and</del> Porsche 911 Owner. I Spent 8 years of my life jumping out of airplanes for the US Army doing high speed/low drag shit. Combat Veteran.
 
+I'm also a conservationist and a hunter.
+
 I was one of the Co-Founders of SourceForge.net.
 
 I've been at Google since 2015, currently working as the Site Reliability Manager for the Carrier-SRE-MTV team. Most of our focus is in the area of carrier related services including Rich Communication Services (RCS), SMS Aggregation etc.
