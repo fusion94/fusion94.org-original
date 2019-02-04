@@ -4,13 +4,13 @@ title: "Ruger Predator Upgrade"
 date: 2019-02-03 17:44:58
 comments: true
 published: true
-categories: 
+categories:
 ---
 
-### Introduction 
+### Introduction
 Ruger came out with their low cost American line of rifles a few years ago. It was about a year after their introduction that they announced a new model in their American Rifle lineup called the Predator, which featured a “heavier” weight barrel that was even threaded for a suppressor or muzzlebrake, all at a very low cost.
 
-So several months ago I picked up a [Ruger American Predator](https://ruger.com/products/americanRiflePredator/specSheets/26973.html) chambered in 6.5 Creedmmor. 
+So several months ago I picked up a [Ruger American Predator](https://ruger.com/products/americanRiflePredator/specSheets/26973.html) chambered in 6.5 Creedmmor.
 
 ### Rifle Specifications
 Here are the basic specs:
@@ -30,23 +30,22 @@ The 6.5mm Creedmoor, designated 6.5 Creedmoor is a centerfire rifle cartridge in
 
 The cartridge was designed specifically for long-range target shooting although it is also achieving success in game hunting. Bullet for bullet, the 6.5mm Creedmoor achieves a slower muzzle velocity than longer cartridges such as the 6.5-284 Norma or magnum cartridges such as the 6.5mm Remington Magnum. However, due to its overall length of 2.825 inches (71.8 mm), it is capable of being chambered in short-action bolt-action rifles and AR-10 semi-automatic rifles.
 
-Here we arrive at the allure of 6.5 mm-rifle bullets. The ability for a particular cartridge to shoot flat is a result of its muzzle velocity and the aerodynamics of the bullet. Thirty-caliber bullets can be made to shoot just as flat as 6.5 mm bullets, but in order for this to be achieved, the bullet has to be quite long, and it has to be pushed to higher velocities than the .308 Win. is capable. 
+Here we arrive at the allure of 6.5 mm-rifle bullets. The ability for a particular cartridge to shoot flat is a result of its muzzle velocity and the aerodynamics of the bullet. Thirty-caliber bullets can be made to shoot just as flat as 6.5 mm bullets, but in order for this to be achieved, the bullet has to be quite long, and it has to be pushed to higher velocities than the .308 Win. is capable.
 
 This means longer, heavier bullets need a longer action, and it means recoil is increased. The redneck explanation is that 6.5 mm bullets offer the best balance of flat trajectory and tolerable recoil in sport-rifle cartridges, due to their high-ballistic coefficient (BC).
 
 To illustrate how this all sorts out downrange, we can compare Hornady’s flattest-shooting 6.5 Creedmoor load to its flattest-shooting .308 Win. load at 800 yards, using Hornady’s 4DOF ballistic calculator.
 
-In summry the Creedmoor shoots flatter, hits harder, does not drift as much and kicks less. And that, my friends, is kind of a big deal.
+In summary the Creedmoor shoots flatter, hits harder, does not drift as much and kicks less. And that, my friends, is kind of a big deal.
 
 **6.5 Creedmoor vs .308 Winchester**
 
-| Load      | Velocity | Energy | Drop | Drift | Time of Flight | Recoil | 
+| Load      | Velocity | Energy | Drop | Drift | Time of Flight | Recoil |
 | --------- |:--------:|:---:|:----:|:-----:|:---:|:------:|
 | Hornady 140-grain ELD 6.5 Creedmoor | 2,710 | 856 | 20.99 | 4.53 | 1.124 | 9.92 |
 | Hornady 178-grain ELD-X .308 Winchester | 2,600 | 833 | 24.81 | 5.76 | 1.234 | 13.09 |
 
 > Velocity measured in fps 10 feet from the muzzle for 10 consecutive shots with a PACT Chronograph XP. Energy at 800 yards measured in ft-lbs. Drop is the elevation correction in MOA needed at 800 yards, with a 10-mph and 9--degree crosswind. Time of Flight to 800 yards measured in seconds. Recoil (Recoil Force) measured in ft-lbs based on a total rifle weigh of 10 pounds.
-
 
 ### My Review
 Since I purchased it I've installed a scope, gone to the range twice with it and went hunting with it once. Here are my basic thoughts in regards to it.
