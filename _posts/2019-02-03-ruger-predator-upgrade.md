@@ -48,8 +48,6 @@ In summry the Creedmoor shoots flatter, hits harder, does not drift as much and 
 > Velocity measured in fps 10 feet from the muzzle for 10 consecutive shots with a PACT Chronograph XP. Energy at 800 yards measured in ft-lbs. Drop is the elevation correction in MOA needed at 800 yards, with a 10-mph and 9--degree crosswind. Time of Flight to 800 yards measured in seconds. Recoil (Recoil Force) measured in ft-lbs based on a total rifle weigh of 10 pounds.
 
 
-
-
 ### My Review
 Since I purchased it I've installed a scope, gone to the range twice with it and went hunting with it once. Here are my basic thoughts in regards to it.
 
