@@ -1,4 +1,4 @@
----
+0---
 layout: post
 title: "Ruger Predator Upgrade"
 date: 2019-02-03 17:44:58
@@ -50,4 +50,31 @@ In summary the Creedmoor shoots flatter, hits harder, does not drift as much and
 ### My Review
 Since I purchased it I've installed a scope, gone to the range twice with it and went hunting with it once. Here are my basic thoughts in regards to it.
 
-For the price I paid for it it's not been a bad rifle at all although there are a few things I wasn't a fan of
+Now there's nothing inherently wrong with the rifle as is. It's a simple rifle, an accurate rifle and an affordable rifle. For the price I paid for it it's not been a bad rifle at all although there are a few things I wasn't a fan of. As such I decided to do a few upgrades to fix these shortcomings.
+
+Great optics are worth every penny and [Vortex Optics](http://vortexoptics.com/) makes some of the best out there. [Nightforce](http://nightforceoptics.com/) also makes some pretty great scopes out there but they don't make binoculars whereas Vortex does and they also makes laser range finders. Overall Vortex allows for "one stop shopping".
+
+* Vortex Optics Viper PST Gen II 5-25x50 EBR-2C (MRAD) First Focal Plane
+* Vortex Optics Precision Matched Rings (30mm - 1.26 inches)
+
+Here's a picture of the rifle with the scope installed.
+
+![alt text](/images/blog/ruger/stock_ruger.jpg "Stock Ruger American Predator")
+
+So the biggest issue I had with the rifle was with the molded polymer stock. While it is light weight it really feels cheap, The trigger guard is also molded into the stock and there's no way to relace it. At the bottom of the pistol grip there is a plastic cap with the Ruger logo on it. It provides no functional use and appears to be nothing more than brand marketing.
+
+Here are a few pictures.
+
+![alt text](/images/blog/ruger/stock_guts.jpg "Stock Internals")
+
+![alt text](/images/blog/ruger/stock_cap.jpg "Brand Marketing")
+
+![alt text](/images/blog/ruger/stock_trigger_guard.jpg "Trigger Guard")
+
+
+
+![alt text](/images/blog/ruger/stock_beds.jpg "Bedding Blocks")
+
+
+Lastly I was not a fan of the stock bolt knob. 
+![alt text](/images/blog/ruger/bolt_knob.jpg "Stock Ruger American Predator")
