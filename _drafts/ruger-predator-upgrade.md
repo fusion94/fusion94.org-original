@@ -1,4 +1,4 @@
-0---
+---
 layout: post
 title: "Ruger Predator Upgrade"
 date: 2019-02-03 17:44:58
@@ -6,6 +6,9 @@ comments: true
 published: true
 categories:
 ---
+
+> info ""
+> fusion94.org is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 ### Introduction
 Ruger came out with their low cost American line of rifles a few years ago. It was about a year after their introduction that they announced a new model in their American Rifle lineup called the Predator, which featured a “heavier” weight barrel that was even threaded for a suppressor or muzzlebrake, all at a very low cost.
