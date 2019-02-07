@@ -43,6 +43,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    premonition (2.0.0)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -63,6 +64,7 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-seo-tag
+  premonition (~> 2.0.0)
 
 BUNDLED WITH
    2.0.1
