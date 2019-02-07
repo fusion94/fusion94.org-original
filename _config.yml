@@ -69,7 +69,7 @@ footer-links-active:
   facebook: true
   email: true
   twitter: true
-  google-plus: true
+  google-plus: false
   github: true
   reddit: false
   linkedin: false
@@ -86,7 +86,6 @@ share-links-active:
   twitter: true
   facebook: true
   instagram: true
-  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
