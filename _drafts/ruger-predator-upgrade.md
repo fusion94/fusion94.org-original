@@ -54,8 +54,8 @@ Now there's nothing inherently wrong with the rifle as is. It's a simple rifle, 
 
 Great optics are worth every penny and [Vortex Optics](http://vortexoptics.com/) makes some of the best out there. [Nightforce](http://nightforceoptics.com/) also makes some pretty great scopes out there but they don't make binoculars whereas Vortex does and they also makes laser range finders. Overall Vortex allows for "one stop shopping".
 
-* Vortex Optics Viper PST Gen II 5-25x50 EBR-2C (MRAD) First Focal Plane
-* Vortex Optics Precision Matched Rings (30mm - 1.26 inches)
+* [Vortex Optics Viper PST Gen II 5-25x50 EBR-2C (MRAD) First Focal Plane](https://www.amazon.com/gp/product/B01MZ871IV/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MZ871IV&linkCode=as2&tag=fusion94-20&linkId=675e37478e6f8db9e1ca927305413deb)
+* [Vortex Optics Precision Matched Rings (30mm - 1.26 inches)](https://www.amazon.com/gp/product/B00691G21A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00691G21A&linkCode=as2&tag=fusion94-20&linkId=3877376bfafcbc284cbc68b61bf7c626)
 
 Here's a picture of the rifle with the scope installed.
 
@@ -76,5 +76,5 @@ Here are a few pictures.
 ![alt text](/images/blog/ruger/stock_beds.jpg "Bedding Blocks")
 
 
-Lastly I was not a fan of the stock bolt knob. 
+Lastly I was not a fan of the stock bolt knob.
 ![alt text](/images/blog/ruger/bolt_knob.jpg "Stock Ruger American Predator")
