@@ -298,13 +298,17 @@ So how much money does this actually mean? Well here are the breakdowns for 2018
 <td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">$1,149,078,135</font></strong></font></td>
 </tr></tbody></table>
 
-So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. 
+So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. Yep that's approximately $10 billion in spending by sportmen.
 
 In comparison, in 2017 the Sierra Club received $68 million dollars in total contribtutions and spent $63 million dollars on program services.
 
 Essentially sportsmen from Michigan and North Carolina combined contributed the same amount as the Sierra Club in total. 
 
 I'm not trying to paint the Sierra Club as a bad organization at all. Fundamentally there aren't bad. They just can't do enough.
+
+How can we as sportsmen increase that number? Well for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
+
+Alternatively there are other ways as sportsmen to support Conservation such as the 2% for Conservation movement/organization.
 
 ### What is 2% for Conservation?
 
@@ -322,7 +326,7 @@ Most importantly, the networks of businesses and individuals engaged in the 2% f
 
 ![alt text](/images/2PC_Loop.png "2% for Conservation Loop")
 
-## How does it work?
+### So Exactly how does it work?
 
 Individuals can become certified “True Conservationists” by demonstrating their commitment to conservation by proving that they give back at least 1% of their annual income and volunteer at least 1% (21 hours) of their time to conservation causes.
 
