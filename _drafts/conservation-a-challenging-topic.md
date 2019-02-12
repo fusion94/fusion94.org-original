@@ -300,23 +300,19 @@ So how much money does this actually mean? Well here are the breakdowns for 2018
 
 So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. Yep that's approximately $10 billion in spending by sportmen.
 
-In comparison, in 2017 the Sierra Club received $68 million dollars in total contribtutions and spent $63 million dollars on program services.
-
-Essentially sportsmen from Michigan and North Carolina combined contributed the same amount as the Sierra Club in total. 
-
-I'm not trying to paint the Sierra Club as a bad organization at all. Fundamentally there aren't bad. They just can't do enough.
+In comparison, in 2017 the Sierra Club received $68 million dollars in total contributions and spent $63 million dollars on program services. Essentially sportsmen from Michigan and North Carolina **combined** contributed the same amount as the Sierra Club in total. I'm not trying to paint the Sierra Club as a bad organization at all. Fundamentally there aren't bad. They just can't do enough.
 
 How can we as sportsmen increase that number? Well for one, if the excise tax provided by the Pittman-Robertson act was increased to 15% then that would raise the total amount to $1.5 billion annually. Seems pretty straight forward.
 
-Alternatively there are other ways as sportsmen to support Conservation such as the 2% for Conservation movement/organization.
+Buying licenses, stamps and tags to legally hunt or fish in America is an essential and necessary means to supporting wildlife conservation. However, we can do more to conserve fish, wildlife and their habitat to ensure the future of hunting and fishing for future generations. Alternatively there are other ways as sportsmen to support Conservation such as the 2% for Conservation movement/organization.
 
 ### What is 2% for Conservation?
 
-2% for Conservation is a non-profit organization that certifies true conservationists. They believe businesses and individuals committed to giving at least 1% of their time and at least 1% of their money to conservation organizations deserve recognition. They also believe that more businesses and more people need to get involved in conservation to ensure the future existence of fish and wildlife. Their goal is to preserve our hunting and angling heritage and to promote the proper science based conservation of fish, wildlife and their habitat.
+[2% for Conservation](https://fishandwildlife.org/) is a non-profit organization (501c3 non-profit) that certifies true conservationists. They believe businesses and individuals committed to giving at least 1% of their time and at least 1% of their money to conservation organizations deserve recognition. They also believe that more businesses and more people need to get involved in conservation to ensure the future existence of fish and wildlife. Their goal is to preserve our hunting and angling heritage and to promote the proper science based conservation of fish, wildlife and their habitat.
 
 ### The 2% for Conservation Loop
 
-2% for Conservation (a 501c3 non-profit) was started out of necessity. Many things have changed since the North American Model of Wildlife Conservation was created over 80 years ago. Consumers are better educated about conservation issues and businesses understand the value of corporate responsibility. Hunters and anglers understand they can no longer take their favorite pastimes for granted and are increasingly dedicated to doing their part in ensuring the long-term viability of the natural environment they value so highly.
+2% for Conservation was started out of necessity. Many things have changed since the North American Model of Wildlife Conservation was created over 80 years ago. Consumers are better educated about conservation issues and businesses understand the value of corporate responsibility. Hunters and anglers understand they can no longer take their favorite pastimes for granted and are increasingly dedicated to doing their part in ensuring the long-term viability of the natural environment they value so highly.
 
 Through the mechanism provided by 2% for Conservation, connections are made and strengthened between businesses, conservation organizations, and consumers. The networks that result from this model will provide a continuous funding stream for conservation efforts and a valuable opportunity to educate the public about the important role that sportsmen and women play in conserving fish and wildlife.
 
@@ -328,9 +324,9 @@ Most importantly, the networks of businesses and individuals engaged in the 2% f
 
 ### So Exactly how does it work?
 
-Individuals can become certified “True Conservationists” by demonstrating their commitment to conservation by proving that they give back at least 1% of their annual income and volunteer at least 1% (21 hours) of their time to conservation causes.
+**Business Membership:** 2% for Conservation puts businesses through an audit process to certify that they give back at least 1% of their gross annual sales and at least 1% (21 hours) of volunteer time to conservation causes. Upon approval, business members become part of an exclusive network of philosophically aligned companies committed to ensuring the future of fish, wildlife, hunting and angling.
 
-Buying licenses, stamps and tags to legally hunt or fish in America is an essential and necessary means to supporting wildlife conservation. However, you can do more to conserve fish, wildlife and their habitat to ensure the future of hunting and fishing for future generations.
+**Individual Certification:** Individuals can become certified “True Conservationists” by demonstrating their commitment to conservation by proving that they give back at least 1% of their annual income and volunteer at least 1% (21 hours) of their time to conservation causes.
 
 **Do you volunteer at least 1% of your time to Conservation?**<br>
 (~2,080 work hours/year = ~21 hours of volunteer time)
