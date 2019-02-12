@@ -300,7 +300,8 @@ So how much money does this actually mean? Well here are the breakdowns for 2018
 
 So in total, that's $1.15 billion dollars going directly back into conservation efforts from hunters and fisherman in 2018. 
 
-In comparison, in 2017 the Sierra Club received $68 million dollars in total contribtutions and spent $63 million dollars on program services. Or you know, putting that money back into their causes.
+In comparison, in 2017 the Sierra Club received $68 million dollars in total contribtutions and spent $63 million dollars on program services.
+
 
 
 ### What is 2% for Conservation?
