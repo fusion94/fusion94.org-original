@@ -16,3 +16,6 @@ Moving forward I will continue to blog about technology/gaming but will be addin
 Overall it will be a mix bag of various posts.
 
 I look forward to returning to blogging more frequently and hopefully you will get something out of it as well.
+
+> info ""
+> Tell me more of what you'd like to read in the comments below
