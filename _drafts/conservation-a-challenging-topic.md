@@ -41,8 +41,8 @@ Across North America, hunting was a largely unregulated activity for individuals
 1. **Wildlife is a public resource**. In the Unites States, wildlife is considered a public resource, independent of the land or water where wildlife may live. Government at various levels have a role in managing that resource on behalf of all citizens and to ensure the long-term sustainability of wildlife populations.
 1. **Markets for game are eliminated**. Before wildlife protection laws were enacted, commercial operations decimated populations of many species. Making it illegal to buy and sell meat and parts of game and nongame species removed a huge threat to the survival of those species. A market in furbearers continues as a highly regulated activity, often to manage invasive wildlife.
 1. **Allocation of wildlife by law**. Wildlife is a public resource managed by government. As a result, access to wildlife for hunting is through legal mechanisms such as set hunting seasons, bag limits, license requirements, etc.
-1. **Wildlife can only be killed for a legitimate purpose**. Wildlife is a shared resource that must not be wasted. The law prohibits killing wildlife for frivolous reasons.
-1. **Wildlife species are considered an international resource**. Some species, such as migratory birds, cross national boundaries. Treaties such as the Migratory Bird Treaty and CITES recognize a shared responsibility to manage these species across national boundaries.
+1. **Wildlife can only be killed for a legitimate purpose**. Wildlife is a shared resource that must not be wasted. The law prohibits killing wildlife for frivolous reasons.This is a text with a footnote
+1. **Wildlife specThis is a text with a footnote an international resource**. Some species, such as migratory This is a text with a footnotenal boundaries. Treaties such as the Migratory Bird Treaty and CITES recognize a shared responsibility to manage these species across national boundaries.
 1. **Science is the proper tool for discharge of wildlife policy**. In order to manage wildlife as a shared resource fairly, objectively, and knowledgeably, decisions must be based on sound science such as annual waterfowl population surveys and the work of professional wildlife biologists.
 1. **The democracy of hunting**. In keeping with democratic principles, government allocates access to wildlife without regard for wealth, prestige, or land ownership.
 
@@ -58,7 +58,9 @@ The 5 species listed above were almost completely wiped out to to market hunting
 
 The Pittman–Robertson Act took over a pre-existing 11% excise tax on firearms and ammunition. Instead of going into the U.S. Treasury as it had done in the past, the money is kept separate and is given to the Secretary of the Interior to distribute to the States. The Secretary determines how much to give to each state based on a formula that takes into account both the area of the state and its number of licensed hunters.
 
-So how much money does this actually mean? Well here are the breakdowns for 2018.
+So how much money does this actually mean? Well here are the breakdowns for 2018[^1].
+
+[^1]: [Secretary Zinke Announces More Than $1.1 Billion for Sportsmen & Conservation](https://www.doi.gov/pressreleases/secretary-zinke-announces-more-that-11-billion-sportsmen-conservation)
 
 |||||
 |--- |--- |--- |--- |
