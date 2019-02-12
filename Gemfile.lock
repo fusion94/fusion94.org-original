@@ -34,6 +34,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
       jekyll (~> 3.3)
+    jekyll-time-to-read (0.1.2)
+      jekyll
     jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -67,6 +69,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-paginate
   jekyll-seo-tag
+  jekyll-time-to-read
   premonition (~> 2.0.0)
 
 BUNDLED WITH

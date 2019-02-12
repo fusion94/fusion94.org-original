@@ -213,6 +213,7 @@ plugins:
   - jekyll-seo-tag
   - premonition
   - jekyll-compose
+  - jekyll-time-to-read
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

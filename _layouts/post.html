@@ -9,9 +9,10 @@ layout: base
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
       <article role="main" class="blog-post">
-          {% capture time %}{{ content | reading_time }}{% endcapture %}
-  <p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.</p>
-        {{ content }}
+	      <p> This article will take {{ content | reading_time_as_i }} minutes to read.</p>
+
+
+	{{ content }}
       </article>
 
       {% if page.tags.size > 0 %}

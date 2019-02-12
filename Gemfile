@@ -5,3 +5,5 @@ gem 'jekyll-paginate'
 gem 'jekyll-seo-tag'
 gem "premonition", "~> 2.0.0"
 gem 'jekyll-compose'
+gem 'jekyll-time-to-read'
+
