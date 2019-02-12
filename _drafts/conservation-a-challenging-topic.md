@@ -30,7 +30,7 @@ There are many subtopics of Conservation and there are many sub-subtopics as wel
 
 ### Hunting and Conservation
 
-I will admit my views on Conservation are skewed, or if you will biased, as someone who actively hunts and fishes. I've been performing these activities for close to 45 years now. 
+I will admit my views on Conservation are skewed, or if you will biased, as someone who actively hunts and fishes. I've been performing these activities for close to 45 years now.
 
 In our nation's early years, there were few laws protecting fish and wildlife and our wildlife resources took a heavy toll. Market hunters took fish and wildlife at will while habitat disappeared under plow and roads, resulting in devastating reductions in wildlife populations. Some species, like the passenger pigeon, were taken to the point of no return; others such as bison, white-tailed deer and wild turkeys, were pushed to the edge extinction.
 
@@ -56,247 +56,71 @@ Carrying on the theme above here are 5 examples of how hunting is Conservation.
 
 The 5 species listed above were almost completely wiped out to to market hunting and really only came back due to the [Federal Aid in Wildlife Restoration Act of 1937](https://en.wikipedia.org/wiki/Pittman%E2%80%93Robertson_Federal_Aid_in_Wildlife_Restoration_Act). This law, commonly referred to the Pittman-Robertson Act created an excise tax that provides funds to each state to manage such animals and their habitats.
 
-The Pittman–Robertson Act took over a pre-existing 11% excise tax on firearms and ammunition. Instead of going into the U.S. Treasury as it had done in the past, the money is kept separate and is given to the Secretary of the Interior to distribute to the States. The Secretary determines how much to give to each state based on a formula that takes into account both the area of the state and its number of licensed hunters. 
+The Pittman–Robertson Act took over a pre-existing 11% excise tax on firearms and ammunition. Instead of going into the U.S. Treasury as it had done in the past, the money is kept separate and is given to the Secretary of the Interior to distribute to the States. The Secretary determines how much to give to each state based on a formula that takes into account both the area of the state and its number of licensed hunters.
 
 So how much money does this actually mean? Well here are the breakdowns for 2018.
 
-<table border="1" style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; height: 379px; border-color: black;" width="837"><tbody><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">STATE</font></strong></font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">TOTAL - SPORT FISH RESTORATION (FY18)</font></strong></font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">TOTAL - ALL WILDLIFE FUNDS (FY18)</font></strong></font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">TOTAL - ALL FUNDS (FY18)</font></strong></font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">ALABAMA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,151,179</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$19,360,421</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$25,511,600</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">ALASKA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$17,595,874</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$33,455,771</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$51,051,645</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">AMERICAN SAMOA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,173,058</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,328,563</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$2,501,621</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">ARIZONA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,154,503</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$22,080,003</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$29,234,506</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">ARKANSAS</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$5,348,981</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$13,221,723</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$18,570,704</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">CALIFORNIA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$16,513,733</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$26,037,993</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$42,551,726</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">COLORADO</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$9,143,673</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$19,872,123</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$29,015,796</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">CONNECTICUT</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$5,901,190</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$9,420,365</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">DELAWARE</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,785,824</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,304,999</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">DISTRICT OF COLUMBIA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,173,058</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$0</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,173,058</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">FLORIDA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$12,236,611</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$14,351,398</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$26,588,009</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">GEORGIA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,041,424</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$23,213,465</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$31,254,889</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">GUAM</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,173,058</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,328,563</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$2,501,621</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">HAWAII</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,785,824</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,304,999</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">IDAHO</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,430,284</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$15,474,320</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$21,904,604</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">ILLINOIS</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,593,209</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$16,335,080</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$22,928,289</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">INDIANA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,577,731</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$13,573,699</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$18,151,430</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">IOWA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,513,130</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,515,178</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$16,028,308</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">KANSAS</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,981,927</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$14,646,057</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$19,627,984</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">KENTUCKY</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$5,198,763</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$14,127,290</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$19,326,053</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">LOUISIANA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,908,171</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$15,884,383</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$22,792,554</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MAINE</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,055,283</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,574,458</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MARYLAND</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,754,551</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,273,726</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MASSACHUSETTS</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,986,372</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,505,547</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MICHIGAN</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$10,692,452</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$24,296,525</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$34,988,977</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MINNESOTA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$12,500,370</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$23,400,370</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$35,900,740</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MISSISSIPPI</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,009,209</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$12,144,757</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$16,153,966</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MISSOURI</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,677,750</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$21,117,103</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$28,794,853</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">MONTANA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,648,987</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$21,131,270</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$29,780,257</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">N. MARIANA ISLANDS</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,173,058</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,328,563</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$2,501,621</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NEBRASKA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,483,366</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$12,833,330</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$17,316,696</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NEVADA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,974,601</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$13,948,153</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$18,922,754</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NEW HAMPSHIRE</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,785,824</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,304,999</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NEW JERSEY</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,986,372</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,505,547</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NEW MEXICO</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,244,495</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$15,787,434</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$22,031,929</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NEW YORK</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,820,180</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$20,862,345</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$28,682,525</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NORTH CAROLINA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$10,344,499</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$21,338,737</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$31,683,236</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">NORTH DAKOTA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,130,618</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,377,784</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$15,508,402</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">OHIO</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,898,966</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$16,457,632</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$23,356,598</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">OKLAHOMA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,695,368</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$19,907,732</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$27,603,100</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">OREGON</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,820,246</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$17,690,588</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$25,510,834</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">PENNSYLVANIA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,571,622</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$28,157,633</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$36,729,255</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">PUERTO RICO</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,452,263</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,971,438</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">RHODE ISLAND</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,785,824</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,304,999</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">SOUTH CAROLINA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,899,188</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$10,678,793</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$15,577,981</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">SOUTH DAKOTA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,490,053</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$13,775,104</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$18,265,157</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">TENNESSEE</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,457,271</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$22,544,767</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$30,002,038</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">TEXAS</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$17,595,874</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$36,656,319</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$54,252,193</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">UTAH</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$6,405,939</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$14,616,342</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$21,022,281</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">VERMONT</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$4,785,824</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,304,999</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">VIRGIN ISLANDS</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,173,058</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$1,328,563</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$2,501,621</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">VIRGINIA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$5,204,846</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$14,176,335</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$19,381,181</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">WASHINGTON</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$7,112,530</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$15,120,458</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$22,232,988</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">WEST VIRGINIA</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$3,519,175</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$8,209,596</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,728,771</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">WISCONSIN</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$11,424,513</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$23,542,090</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$34,966,603</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">WYOMING</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$5,329,957</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$13,861,148</font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif" size="3">$19,191,105</font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif"> </font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"> </font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"> </font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"> </font></td>
-</tr><tr><td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">TOTAL </font></strong></font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">$351,917,483</font></strong></font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">$797,160,652</font></strong></font></td>
-<td style="margin: 0px;"><font face="arial,helvetica,sans-serif"><strong><font size="3">$1,149,078,135</font></strong></font></td>
-</tr></tbody></table>
+|||||
+|--- |--- |--- |--- |
+|STATE|TOTAL - SPORT FISH RESTORATION (FY18)|TOTAL - ALL WILDLIFE FUNDS (FY18)|TOTAL - ALL FUNDS (FY18)|
+|ALABAMA|$6,151,179|$19,360,421|$25,511,600|
+|ALASKA|$17,595,874|$33,455,771|$51,051,645|
+|AMERICAN SAMOA|$1,173,058|$1,328,563|$2,501,621|
+|ARIZONA|$7,154,503|$22,080,003|$29,234,506|
+|ARKANSAS|$5,348,981|$13,221,723|$18,570,704|
+|CALIFORNIA|$16,513,733|$26,037,993|$42,551,726|
+|COLORADO|$9,143,673|$19,872,123|$29,015,796|
+|CONNECTICUT|$3,519,175|$5,901,190|$9,420,365|
+|DELAWARE|$3,519,175|$4,785,824|$8,304,999|
+|DISTRICT OF COLUMBIA|$1,173,058|$0|$1,173,058|
+|FLORIDA|$12,236,611|$14,351,398|$26,588,009|
+|GEORGIA|$8,041,424|$23,213,465|$31,254,889|
+|GUAM|$1,173,058|$1,328,563|$2,501,621|
+|HAWAII|$3,519,175|$4,785,824|$8,304,999|
+|IDAHO|$6,430,284|$15,474,320|$21,904,604|
+|ILLINOIS|$6,593,209|$16,335,080|$22,928,289|
+|INDIANA|$4,577,731|$13,573,699|$18,151,430|
+|IOWA|$4,513,130|$11,515,178|$16,028,308|
+|KANSAS|$4,981,927|$14,646,057|$19,627,984|
+|KENTUCKY|$5,198,763|$14,127,290|$19,326,053|
+|LOUISIANA|$6,908,171|$15,884,383|$22,792,554|
+|MAINE|$3,519,175|$8,055,283|$11,574,458|
+|MARYLAND|$3,519,175|$7,754,551|$11,273,726|
+|MASSACHUSETTS|$3,519,175|$7,986,372|$11,505,547|
+|MICHIGAN|$10,692,452|$24,296,525|$34,988,977|
+|MINNESOTA|$12,500,370|$23,400,370|$35,900,740|
+|MISSISSIPPI|$4,009,209|$12,144,757|$16,153,966|
+|MISSOURI|$7,677,750|$21,117,103|$28,794,853|
+|MONTANA|$8,648,987|$21,131,270|$29,780,257|
+|N. MARIANA ISLANDS|$1,173,058|$1,328,563|$2,501,621|
+|NEBRASKA|$4,483,366|$12,833,330|$17,316,696|
+|NEVADA|$4,974,601|$13,948,153|$18,922,754|
+|NEW HAMPSHIRE|$3,519,175|$4,785,824|$8,304,999|
+|NEW JERSEY|$3,519,175|$7,986,372|$11,505,547|
+|NEW MEXICO|$6,244,495|$15,787,434|$22,031,929|
+|NEW YORK|$7,820,180|$20,862,345|$28,682,525|
+|NORTH CAROLINA|$10,344,499|$21,338,737|$31,683,236|
+|NORTH DAKOTA|$4,130,618|$11,377,784|$15,508,402|
+|OHIO|$6,898,966|$16,457,632|$23,356,598|
+|OKLAHOMA|$7,695,368|$19,907,732|$27,603,100|
+|OREGON|$7,820,246|$17,690,588|$25,510,834|
+|PENNSYLVANIA|$8,571,622|$28,157,633|$36,729,255|
+|PUERTO RICO|$3,519,175|$3,452,263|$6,971,438|
+|RHODE ISLAND|$3,519,175|$4,785,824|$8,304,999|
+|SOUTH CAROLINA|$4,899,188|$10,678,793|$15,577,981|
+|SOUTH DAKOTA|$4,490,053|$13,775,104|$18,265,157|
+|TENNESSEE|$7,457,271|$22,544,767|$30,002,038|
+|TEXAS|$17,595,874|$36,656,319|$54,252,193|
+|UTAH|$6,405,939|$14,616,342|$21,022,281|
+|VERMONT|$3,519,175|$4,785,824|$8,304,999|
+|VIRGIN ISLANDS|$1,173,058|$1,328,563|$2,501,621|
+|VIRGINIA|$5,204,846|$14,176,335|$19,381,181|
+|WASHINGTON|$7,112,530|$15,120,458|$22,232,988|
+|WEST VIRGINIA|$3,519,175|$8,209,596|$11,728,771|
+|WISCONSIN|$11,424,513|$23,542,090|$34,966,603|
+|WYOMING|$5,329,957|$13,861,148|$19,191,105|
+|||||
+|TOTAL|$351,917,483|$797,160,652|$1,149,078,135|
 
 So in total, that's $1.15 billion dollars going directly back into conservation efforts from sportsmen in 2018. Yep that's approximately $10 billion in spending by sportmen.
 
