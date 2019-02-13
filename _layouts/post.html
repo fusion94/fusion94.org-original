@@ -9,13 +9,13 @@ layout: base
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
       <article role="main" class="blog-post">
-	      <p> This article will take {{ content | reading_time_as_i }} minutes to read.</p>
-
-
-	{{ content }}
+      
+      <p><b>This article will take {{ content | reading_time_as_i | pluralize: "minute" }} to read.</b></p>
+  
+      {{ content }}
       </article>
 
-      {% if page.tags.size > 0 %}
+      {% if page.tags.size > 0 %}S
         <div class="blog-tags">
           Tags:
           {% if site.link-tags %}

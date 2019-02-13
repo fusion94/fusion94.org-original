@@ -4,8 +4,12 @@ title: "Conservation - A Challenging Topic"
 date: 2019-02-11 13:02:38
 comments: true
 published: true
-categories:
+categories: conservation, hunting
 ---
+
+
+> We need all citizens to care, we need all citizens to believe, we need all citizens to engage, and we need to again make it understood that to be concerned about conservation is an act of citizenship.
+> -- Shane Mahoney
 
 This can be a challenging topic to discuss at times depending on your viewpoint. In this post I will try and walk you through how I look at Conservation and how I personally contribute.
 
@@ -39,12 +43,12 @@ As the tides turned for conservation, important laws were passed, including the 
 Across North America, hunting was a largely unregulated activity for individuals and commercial entities until the 1800's, when citizens began to ask whether wildlife populations could continue at healthy levels without checks on hunting. The legal framework that has since developed grew out of a set of principles now known as the North American Model of Wildlife Conservation. Seven features make the North American model distinct.
 
 1. **Wildlife is a public resource**. In the Unites States, wildlife is considered a public resource, independent of the land or water where wildlife may live. Government at various levels have a role in managing that resource on behalf of all citizens and to ensure the long-term sustainability of wildlife populations.
-1. **Markets for game are eliminated**. Before wildlife protection laws were enacted, commercial operations decimated populations of many species. Making it illegal to buy and sell meat and parts of game and nongame species removed a huge threat to the survival of those species. A market in furbearers continues as a highly regulated activity, often to manage invasive wildlife.
-1. **Allocation of wildlife by law**. Wildlife is a public resource managed by government. As a result, access to wildlife for hunting is through legal mechanisms such as set hunting seasons, bag limits, license requirements, etc.
-1. **Wildlife can only be killed for a legitimate purpose**. Wildlife is a shared resource that must not be wasted. The law prohibits killing wildlife for frivolous reasons.This is a text with a footnote
-1. **Wildlife specThis is a text with a footnote an international resource**. Some species, such as migratory This is a text with a footnotenal boundaries. Treaties such as the Migratory Bird Treaty and CITES recognize a shared responsibility to manage these species across national boundaries.
-1. **Science is the proper tool for discharge of wildlife policy**. In order to manage wildlife as a shared resource fairly, objectively, and knowledgeably, decisions must be based on sound science such as annual waterfowl population surveys and the work of professional wildlife biologists.
-1. **The democracy of hunting**. In keeping with democratic principles, government allocates access to wildlife without regard for wealth, prestige, or land ownership.
+2. **Markets for game are eliminated**. Before wildlife protection laws were enacted, commercial operations decimated populations of many species. Making it illegal to buy and sell meat and parts of game and nongame species removed a huge threat to the survival of those species. A market in furbearers continues as a highly regulated activity, often to manage invasive wildlife.
+3. **Allocation of wildlife by law**. Wildlife is a public resource managed by government. As a result, access to wildlife for hunting is through legal mechanisms such as set hunting seasons, bag limits, license requirements, etc.
+4. **Wildlife can only be killed for a legitimate purpose**. Wildlife is a shared resource that must not be wasted. The law prohibits killing wildlife for frivolous reasons.This is a text with a footnote
+5. **Wildlife specThis is a text with a footnote an international resource**. Some species, such as migratory This is a text with a footnotenal boundaries. Treaties such as the Migratory Bird Treaty and CITES recognize a shared responsibility to manage these species across national boundaries.
+6. **Science is the proper tool for discharge of wildlife policy**. In order to manage wildlife as a shared resource fairly, objectively, and knowledgeably, decisions must be based on sound science such as annual waterfowl population surveys and the work of professional wildlife biologists.
+7. **The democracy of hunting**. In keeping with democratic principles, government allocates access to wildlife without regard for wealth, prestige, or land ownership.
 
 Carrying on the theme above here are 5 examples of how hunting is Conservation.
 
