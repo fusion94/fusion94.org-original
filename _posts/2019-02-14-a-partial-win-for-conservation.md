@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Win for Conservation"
+title: "A Partial Win for Conservation"
 date: 2019-02-14 10:36:24
 comments: true
 published: true
@@ -86,7 +86,17 @@ As mentioned earlier the voting was 92-8 with the 8 NAYs coming from Republican 
 
 One thing to note is that this is only a partial win at the moment as there is still the need for the House of Representatives to quickly vote on **S. 47** where it can the be passed on to the president’s desk for signature. At that point it will become law.
 
-> Subject: Sportmen and women support S. 47
+#### How to Act
+
+If this is important to you here's how to act.
+
+1) Locate your Representative
+
+Many people don't know who their senators and representatives are. And that's okay! You can go [here](http://www.house.gov/representatives/find/) and input your zip code or state; it will tell you who your elected officials are. Once you have the names, you can find their contact information [here](http://www.house.gov/representatives/).
+
+2) Once you've located your Representative you can either email or call them asking for them to support the bill. A sample email is listed below.
+   
+> Subject: Please Support S. 47
 > 
 > Dear [[Recipient's Title and Name]]:
 > 
@@ -104,6 +114,8 @@ One thing to note is that this is only a partial win at the moment as there is s
 >
 > Sincerely,<br>
 > [Your Full Name]
+
+**Join me in urging your members of Congress to consider a public lands package that most Americans support.**
 
 ### Additional Reading
 
