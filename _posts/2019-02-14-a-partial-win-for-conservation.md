@@ -7,8 +7,6 @@ published: true
 categories: 
 ---
 
-### Introduction
-
  A vote by the U.S. Senate on Tuesday supported a massive package of conservation and public access bills that permanently reauthorizes the Land and Water Conservation Fund and advances other key measures, edging hunters, anglers and other outdoor enthusiasts closer to a hard-won and long-awaited victory.
 
 This is the most sweeping conservation leglislation in over a decade, protecting millions of acres of land and hundreds of miles of wild rivers.
